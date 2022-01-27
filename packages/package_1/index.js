@@ -4,6 +4,7 @@
 // chchchchch asd asd asd asd asd a
 // cchchchchchcssgit zxc`zcxcx a  xcv xcv xcv xcvd asdasd
 // chiscuhaiosucha dfsfdsdf s sdf sfd  sad asd asd
-// bug fix sss
+// bug fix sss dddd
+// trigger a perf
 console.log('1');
 console.log('2');
