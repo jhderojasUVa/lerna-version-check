@@ -1,5 +1,7 @@
 {
   "name": "@jhderojasuva/lerna-version-check",
+  "description": "Kill everybody in a few",
+  "private": true,
   "workspaces": {
     "packages": [
       "packages/*"
