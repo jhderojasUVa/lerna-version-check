@@ -2,14 +2,19 @@
   "packages": [
     "packages/*"
   ],
-  "version": "1.0.0",
+  "useWorkspaces": true,
+  "version": "independent",
   "npmClient": "yarn",
   "command": {
+    "version": {
+      "message": "chore(version): version update"
+    },
     "publish": {
       "ignoreChanges": [
         "ignored-file",
         "*.md"
       ],
+      "conventionalCommits": true,
       "message": "chore(release): publish",
       "registry": "https://npm.pkg.github.com"
     }
@@ -19,5 +24,9 @@
     "npmClientArgs": [
       "--no-package-lock"
     ]
+  },
+  "changelogPreset": {
+    "name": "conventionalcommits",
+    "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
   }
 }
