@@ -1,6 +1,5 @@
 {
   "name": "lerna-version-check",
-  "version": "1.0.0",
   "repository": "https://github.com/jhderojasUVa/lerna-version-check",
   "author": "Jesus A Hernandez de Rojas <jesusangel.hernandezderojas@sky.uk>",
   "license": "MIT",
