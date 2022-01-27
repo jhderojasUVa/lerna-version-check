@@ -1,5 +1,10 @@
 {
-  "name": "lerna-version-check",
+  "name": "@jhderojasuva/lerna-version-check",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "repository": "https://github.com/jhderojasUVa/lerna-version-check",
   "author": "Jesus A Hernandez de Rojas <jesusangel.hernandezderojas@sky.uk>",
   "license": "MIT",
@@ -9,5 +14,8 @@
   "scripts": {
     "version": "lerna version --conventional-commits --yes",
     "publish": "lerna publish --conventional-commits --yes"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
