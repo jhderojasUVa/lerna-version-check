@@ -12,6 +12,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [1.3.0](https://github.com/jhderojasUVa/lerna-version-check/compare/@jhderojasuva/package_2@1.1.0...@jhderojasuva/package_2@1.3.0) (2022-01-28)
+
+
+### Features
+
+* **2:** ssss ([188eb9b](https://github.com/jhderojasUVa/lerna-version-check/commit/188eb9bc5f40e81f188e5ee6641456c81e263007))
+
+
+
 ## [1.2.0](https://github.com/jhderojasUVa/lerna-version-check/compare/@jhderojasuva/package_2@1.1.0...@jhderojasuva/package_2@1.2.0) (2022-01-28)
 
 
