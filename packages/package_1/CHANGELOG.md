@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.0](https://github.com/jhderojasUVa/lerna-version-check/compare/@jhderojasuva/package_1@5.0.4...@jhderojasuva/package_1@5.1.0) (2022-01-28)
+
+
+### Features
+
+* added package2 for testing ([f34d820](https://github.com/jhderojasUVa/lerna-version-check/commit/f34d820baa3d03b0ff65a41a14cf0b6398e5d5ac))
+
+
+
 ### [5.0.4](https://github.com/jhderojasUVa/lerna-version-check/compare/@jhderojasuva/package_1@5.0.2...@jhderojasuva/package_1@5.0.4) (2022-01-28)
 
 
