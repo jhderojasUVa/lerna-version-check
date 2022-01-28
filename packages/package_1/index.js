@@ -7,5 +7,6 @@
 // bug fix sss dddd
 // trigger a perf
 // trigger a fix
+// trigger chore
 console.log('1');
 console.log('2');
