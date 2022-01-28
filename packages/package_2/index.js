@@ -1,2 +1,2 @@
 console.log('package 2');
-// chore
+// feat here
